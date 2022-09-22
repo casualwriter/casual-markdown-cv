@@ -25,9 +25,9 @@ It is a single html file may run from web or local.
 
 If still not good enough, try more themes
 
-* [resume-dark.html]() [preview]()
-* [resume-warm.html]() [preview]()
-* [resume-hot.html]() [preview]()
+* [resume-dark.html](resume-dark.html) [(preview)](https://raw.githack.com/casualwriter/casual-markdown-cv/main/resume-dark.html)
+* [resume-warm.html](resume-warm.html) [(preview)](https://raw.githack.com/casualwriter/casual-markdown-cv/main/resume-warm.html)
+* [resume-blue.html](resume-blue.html) [(preview)](https://raw.githack.com/casualwriter/casual-markdown-cv/main/resume-blue.html)
 
 Sorry for my poor UI design, if still not good enough, folk this repo and make your own.
 
