@@ -1,8 +1,9 @@
 # casual-markdown-cv
 
-First, I prefer use **RAW github markdown** as resume. Here is a template: [resume.md](resume.md)
+First, I prefer use **RAW github markdown** as resume. Here is a sample template: [resume.md](resume.md)
 
-If want a little better, try to add a little code, and transform to [resume.html](resume.html) 
+If want a little better, may add a little code, and transform to [resume.html](resume.html).  
+here is the [layout (self-host at github)](https://raw.githack.com/casualwriter/casual-markdown-cv/main/resume.html)
 
 ```
 <!DOCTYPE html>
@@ -20,7 +21,8 @@ If want a little better, try to add a little code, and transform to [resume.html
 .... resume content in markdown format ....
 
 ```
-It is a single html file may run from web or local. check its [layout by github-self-host](https://raw.githack.com/casualwriter/casual-markdown-cv/main/resume.html)
+
+It is a single html file may run from web or local, share by url or print to PDF.
 
 If still not good enough, try other themes
 
@@ -40,9 +42,13 @@ by the way, it basically use markdown as web page, which can used for other purp
 * [document.html](document.html) // documentation [(preview)](https://raw.githack.com/casualwriter/casual-markdown-cv/main/document.html)
 
 
-## Modification History
+## Credit
 
-* 2022/09/22 initial version
+the template is inspired by https://github.com/youngyangyang04/Markdown-Resume-Template
+
+(2022/09/22, initial verison)
+
+
 
 
 
