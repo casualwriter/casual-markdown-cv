@@ -30,11 +30,11 @@ If still not good enough, try other themes
 * [resume-warm.html](resume-warm.html) // warm theme, font=calibri [(preview)](https://raw.githack.com/casualwriter/casual-markdown-cv/main/resume-warm.html)
 * [resume-blue.html](resume-blue.html) // blue theme, font=arial [(preview)](https://raw.githack.com/casualwriter/casual-markdown-cv/main/resume-blue.html)
 
-Sorry for my poor UI design, if still not good enough, folk this repo and make your own.
+Sorry for my poor UI design, if still not good enough, fork this repo and make your own.
 
 ## Usage
 
-just folk [this repo](https://github.com/casualwriter/casual-markdown-cv), and choose a reusme template to revise.
+just fork [this repo](https://github.com/casualwriter/casual-markdown-cv), and choose a reusme template to revise.
 
 by the way, it basically use markdown as web page, which can used for other purpose. for example,
 
