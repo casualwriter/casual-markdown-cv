@@ -4,6 +4,8 @@ First, I prefer use **RAW github markdown** as resume. Here is a template: [resu
 
 If want a little better, try to add the following code, and transform to [resume.html](resume.html)
 
+It is a single html file may run from web or local. [preview layout](https://raw.githack.com/casualwriter/casual-markdown-cv/main/resume.html)
+
 ```
 <!DOCTYPE html>
 <title>Resume</title>
@@ -20,8 +22,6 @@ If want a little better, try to add the following code, and transform to [resume
 .... resume content in markdown format ....
 
 ```
-
-It is a single html file may run from web or local. e.g. [github-self-host](https://raw.githack.com/casualwriter/casual-markdown-cv/resume.html)
 
 If still not good enough, try more themes
 

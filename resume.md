@@ -50,5 +50,5 @@
 
 * Birth: yyyy/mm
 * Gender: Male
-* Address: room 01, 2/F, block C, somewhere building, Hong Kong
-* Interests: hiking, reading
+* Address: Room 305, 3/F, Block A, One building, Kowloon
+* Interests: Hiking, Reading
