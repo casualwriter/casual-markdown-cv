@@ -2,9 +2,7 @@
 
 First, I prefer use **RAW github markdown** as resume. Here is a template: [resume.md](resume.md)
 
-If want a little better, try to add the following code, and transform to [resume.html](resume.html) [(layout)](https://raw.githack.com/casualwriter/casual-markdown-cv/main/resume.html)
-
-It is a single html file may run from web or local. 
+If want a little better, try to add a little code, and transform to [resume.html](resume.html) 
 
 ```
 <!DOCTYPE html>
@@ -22,8 +20,9 @@ It is a single html file may run from web or local.
 .... resume content in markdown format ....
 
 ```
+It is a single html file may run from web or local. check its [layout by github-self-host](https://raw.githack.com/casualwriter/casual-markdown-cv/main/resume.html)
 
-If still not good enough, try more themes
+If still not good enough, try other themes
 
 * [resume-dark.html](resume-dark.html) [(preview)](https://raw.githack.com/casualwriter/casual-markdown-cv/main/resume-dark.html)
 * [resume-warm.html](resume-warm.html) [(preview)](https://raw.githack.com/casualwriter/casual-markdown-cv/main/resume-warm.html)
@@ -38,8 +37,8 @@ just folk [this repo](https://github.com/casualwriter/casual-markdown-cv), and c
 
 ## Modification History
 
-* 2022/09/22 initial version (resume.md, resume.html)
-* to-do: more theme
+* 2022/09/22 initial version
+
 
 
 
