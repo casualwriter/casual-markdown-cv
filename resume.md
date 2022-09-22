@@ -1,9 +1,8 @@
------------------
-    name    : Casualwriter
+# Casualwriter
+
     github  : https://github.com/casualwriter
     mobile  : 9876-5432
     email   : someone@gmail.com
------------------
 
 ## Education
 
