@@ -24,9 +24,9 @@ It is a single html file may run from web or local. check its [layout by github-
 
 If still not good enough, try other themes
 
-* [resume-dark.html](resume-dark.html) [(preview)](https://raw.githack.com/casualwriter/casual-markdown-cv/main/resume-dark.html)
-* [resume-warm.html](resume-warm.html) [(preview)](https://raw.githack.com/casualwriter/casual-markdown-cv/main/resume-warm.html)
-* [resume-blue.html](resume-blue.html) [(preview)](https://raw.githack.com/casualwriter/casual-markdown-cv/main/resume-blue.html)
+* [resume-dark.html](resume-dark.html) // dark theme, font=verdana [(preview)](https://raw.githack.com/casualwriter/casual-markdown-cv/main/resume-dark.html)
+* [resume-warm.html](resume-warm.html) // warm theme, font=calibri [(preview)](https://raw.githack.com/casualwriter/casual-markdown-cv/main/resume-warm.html)
+* [resume-blue.html](resume-blue.html) // blue theme, font=arial [(preview)](https://raw.githack.com/casualwriter/casual-markdown-cv/main/resume-blue.html)
 
 Sorry for my poor UI design, if still not good enough, folk this repo and make your own.
 
@@ -34,10 +34,16 @@ Sorry for my poor UI design, if still not good enough, folk this repo and make y
 
 just folk [this repo](https://github.com/casualwriter/casual-markdown-cv), and choose a reusme template to revise.
 
+by the way, it basically use markdown as web page, which can used for other purpose. for example,
+
+* [project-plan.html](project-plan.html) // project plan [(preview)](https://raw.githack.com/casualwriter/casual-markdown-cv/main/project-plan.html)
+* [document.html](document.html) // documentation [(preview)](https://raw.githack.com/casualwriter/casual-markdown-cv/main/document.html)
+
 
 ## Modification History
 
 * 2022/09/22 initial version
+
 
 
 
