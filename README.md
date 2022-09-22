@@ -1,18 +1,40 @@
 # casual-markdown-cv
 
-Create resume by [casual-markdown](https://github.com/casualwriter/casual-markdown)
+First, I prefer use RAW github markdown as resume. Here is a template: [resume.md](resume.md)
 
-* Resume Template: [resume.md](resume.md)
-* Basic Theme : [index.html?theme=basic&file=resuem.md]
-* Grey Theme : [index.html?theme=grey&file=resuem.md]
-* Dark Theme : [index.html?theme=dark&file=resuem.md]
-* Hot Theme : [index.html?theme=hot&file=resuem.md]
+If want a litter better, try to the following code, and transform to [resume.html](resume.html)
+
+```
+<!DOCTYPE html>
+<title>Resume</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/casualwriter/casual-markdown/dist/casual-markdown.css">
+<script src="https://cdn.jsdelivr.net/gh/casualwriter/casual-markdown/dist/casual-markdown.js"></script>
+<style>  
+body { font-family:Verdana,sans-serif; line-height:1.5; margin:auto; max-width:1024px; display:none }
+h1  { font-size:200%; background:#f0f0f0; padding:12px }
+h2  { border-bottom:1px solid grey; padding:6px; }
+</style>
+<body onload="document.body.innerHTML=md.html(document.body.innerHTML); document.body.style.display='block'">
+
+.... resume content in markdown format ....
+
+```
+
+It is a independence html file may run from web or local. e.g. [github-self-host](https://raw.githack.com/casualwriter/casual-markdown-cv/resume.html)
+
+If still not good enough, try more themes
+
+* [resume-dark.html]() [preview]()
+* [resume-warm.html]() [preview]()
+* [resume-hot.html]() [preview]()
+
+If still not good enough, folk this repo and make your own.
 
 ## Usage
 
-just folk the resume, revise resume.md
+just folk this repo, and choose a reusme template to revise.
 
-markdown resume is ready on https://raw.githack.com/casualwriter/casual-markdown-cv/main/index.html?cv=resume.md
 
 
 
