@@ -1,54 +1,56 @@
-<span style="float:right;padding:6px">someone@gmail.com<br>mobile: +852 98765432</span>
+<image style="float:right;border-radius:50%;width:56px;padding:6px" src="avatar-man.jpg">
+<span style="float:right;padding:6px"> someone@gmail.com <br> mobile: +852 98765432 </span>
 
 # Casualwriter  
 
 ## Education
 
-* Chinese University of Hong Kong (2000 - 2004)
+* The Chinese University of Hong Kong (2000 - 2004)
 * Bachelor of Computer Science (Sep 2004)
 
-## Summary
+## Highlight
 
-* 15 years experience in IT development and operation
 * 10 years project/team management experience
-* Database: Oracle, MySQL, MS SQL, etc..
-* JavaScript, Java, PHP, PowerBuilder, Node.js
+* PMP, OCP, AWS Certification
+* Hand-on experience in oracle database
+* Proficient in JavaScript, Java, Powerbuilder
+* Familar cloud solution
 
 ## Working Experience
 
-#### (2015/08 - present) PingShan Technology Company Ltd.
+#### PingShan Technology Company Ltd. (2015/08 - present) 
 
-* IT Manager
-* Manage team (5-8 members) for IT development and operation
+* Project Manager
+* Lead a  team for IT development and operation
 * Projects: [Casual-markdown](https://github.com/casualwriter/casual-markdown), [Casual-markdown-cv](https://github.com/casualwriter/casual-markdown-cv)
 
-#### (2011/06 - 2015/07) Second Company
+#### Second Company (2011/06 - 2015/07) 
 
 * Senior System Analyst
-* Lead a small team (2-5 members) for application development
-* Products: [Powerpage](https://github.com/casualwriter/powerpage), [Power-Web-Crawler](https://github.com/casualwriter/powerpage-web-crawler)
+* Lead a small team for application development
+* Projects: [Powerpage](https://github.com/casualwriter/powerpage), [Power-Web-Crawler](https://github.com/casualwriter/powerpage-web-crawler)
 
-#### (2005/01 - 2011/05) My first Company
+#### My first Company (2005/01 - 2011/05)
 
 * Analyst Programmer -> System Analyst
-* Tech-Stack: javascript, java, PHP, powerbuilder, oracle
-* Projects: Clincial Management System, Teamwork Desktop
+* Tech-Stack: Javascript, Java, PHP, Powerbuilder, Oracle
+* Projects: Inventory system, CRM, MIS
 
-## Products (or Awards)
+## Certification
 
-* [casual-markdown](https://github.com/casualwriter/casual-markdown) - a lightweight markdown parser
-* [powerpage](https://github.com/casualwriter/powerpage) - a lightweight web browser for html/js/css application development
-* [casualwriter](http://www.geocities.ws/ck4hung) - a document utility for powerbuilder
+* 2021/12: AWS Certification
+* 2020/02: OCP (Oracle Certified Professional)
+* 2018/08: PMP (Project Management Professional)
 
-## Languages
+## Languages (optional)
 
 * English - good
-* Cantonese - fluent
-* Mandarin - fluent
+* Mandarin - good
+* Cantonese - fluent/native
 
 ## Personal Info (optional)
 
 * Birth: yyyy/mm
 * Gender: Male
-* Address: Room 305, 3/F, Block A, One building, Hong Kong
-* Interests: Hiking, Reading
+* Address: Room 1203, 8/F, Block A, One building, Hong Kong
+* Interests: Hiking, Jogging, Reading
