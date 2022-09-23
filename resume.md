@@ -1,9 +1,9 @@
-<image style="float:right;border-radius:50%;width:56px;padding:6px" src="avatar-man.jpg">
+<image style="float:right;border-radius:50%;width:56px;padding:6px" src="avatar-man.jpg" />
 <span style="float:right;padding:6px"> someone@gmail.com <br> mobile: +852 98765432 </span>
 
 # Casualwriter  
 
-## EXECUTIVE SUMMARY
+## Executive Summary
 
 * 10 years project/team management experience
 * PMP, OCP, AWS Certification
@@ -11,35 +11,35 @@
 * Proficient in JavaScript, Java, Powerbuilder
 * Familiar cloud solution
 
-## WORKING EXPERIENCE
+## Working Experience
 
-#### PingShan Technology Company Ltd. (Project Manager, `2015/08 - present`) 
+#### PingShan Technology Company Ltd. (Project Manager, 2015/08 - present) 
 
-* Lead a team for IT development and operation...
+* Lead team of 10 to oversee conception, requirement gathering, documentation and rollout.
+* Conduct troubleshooting, analysis and support. Gather user feedback, document bugs and change requests.
 * Projects: [Casual-markdown](https://github.com/casualwriter/casual-markdown), [Casual-markdown-cv](https://github.com/casualwriter/casual-markdown-cv)
 
-#### Second Company (System Analyst, `2011/06 - 2015/07`) 
+#### Second Company (System Analyst, 2011/06 - 2015/07) 
 
-* Lead a small team for application development
+* Led team of 5 for application development
+* Coordinated with developers, support staff and vendors across Hong Kong, China, Taiwan
 * Projects: [Powerpage](https://github.com/casualwriter/powerpage), [Power-Web-Crawler](https://github.com/casualwriter/powerpage-web-crawler)
 
-#### My first Company (Analyst Programmer, `2005/01 - 2011/05`)
+#### My first Company (Analyst Programmer, 2005/01 - 2011/05)
 
-* Tech-Stack: Javascript, Java, PHP, Powerbuilder, Oracle
-* Projects: Inventory system, CRM, MIS
+* develop multiple applications using Javascript, Java, PHP, Powerbuilder, Oracle
+* Projects: Inventory System, CRM, MIS
 
-## EDUCATION & QUALIFICATIONS
+## Education & Qualifications
 
 * AWS Certification (2021/12)
-* Oracle Certified Professional) (2020/02)
-* PMP (Project Management Professional) (2018/10)
+* Oracle Certified Professional (2020/02)
+* Project Management Professional (PMP) (2018/10)
 * Bachelor of Computer Science (Sep 2004)
 * The Chinese University of Hong Kong (2000 - 2004)
 
-## MISC. INFORMATION
+## Misc. Information
 
 * Nationality: Chinese
 * Languages: English (good), Cantonese (fluent/native), Mandarin (good)
-* (optional) Birth: yyyy/mm
-* (optional) Interests: Hiking, Jogging, Reading
-* Availablility: One month notification
+* Availability: 1 month's notice
