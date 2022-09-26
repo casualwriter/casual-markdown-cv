@@ -13,7 +13,7 @@ here is the [layout](https://raw.githack.com/casualwriter/casual-markdown-cv/mai
 <script src="https://cdn.jsdelivr.net/gh/casualwriter/casual-markdown/dist/casual-markdown.js"></script>
 <style>  
   body { font-family:verdana,arial; line-height:1.5; margin:auto; padding:3px; max-width:1024px; display:none}
-  h1  { font-size:200%; padding:12px; border:1px solid lightgrey; background:#f0f0f0;  }
+  h1  { font-size:200%; padding:16px; border:1px solid lightgrey; background:#f0f0f0;  }
   h2  { border-bottom:1px solid grey; padding:6px; }
 </style>
 <body onload="document.body.innerHTML=md.html(document.body.innerHTML); document.body.style.display='block'">
@@ -29,6 +29,7 @@ If still not good enough, may try other themes
 * [resume-dark.html](resume-dark.html) // dark theme, font=verdana [(preview)](https://raw.githack.com/casualwriter/casual-markdown-cv/main/resume-dark.html)
 * [resume-warm.html](resume-warm.html) // warm theme, font=calibri [(preview)](https://raw.githack.com/casualwriter/casual-markdown-cv/main/resume-warm.html)
 * [resume-blue.html](resume-blue.html) // blue theme, font=arial [(preview)](https://raw.githack.com/casualwriter/casual-markdown-cv/main/resume-blue.html)
+* [resume-web.html](resume-web.html) // sample for web developer [(preview)](https://raw.githack.com/casualwriter/casual-markdown-cv/main/resume-web.html)
 
 Sorry for my poor UI design, if still not good enough, please fork this repo and make your own.
 
@@ -44,7 +45,8 @@ by the way, this template basically use markdown as web page, which not limit fo
 
 ## Credit
 
-the template is inspired by https://github.com/youngyangyang04/Markdown-Resume-Template
+* inspired by https://github.com/youngyangyang04/Markdown-Resume-Template
+* thanks and reference to CV samples, https://www.resumewriter.hk/blog/cv-samples/
 
 (2022/09/23, initial verison)
 
