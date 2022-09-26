@@ -1,5 +1,7 @@
 <image style="float:right;border-radius:50%;width:56px;padding:6px" src="avatar-man.jpg" />
-<span style="float:right;padding:6px"> someone@gmail.com <br> mobile: +852 98765432 </span>
+<span style="float:right;padding:6px"> 
+  someone@gmail.com <br> mobile: +852 98765432 <br> Nationality: Chinese 
+</span>
 
 # Casualwriter  
 
