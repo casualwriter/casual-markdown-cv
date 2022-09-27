@@ -1,6 +1,7 @@
-<image style="float:right;border-radius:50%;width:56px;padding:6px" src="avatar-man.jpg" />
+<img style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar-man.jpg" />
+
 <span style="float:right;padding:6px"> 
-  someone@gmail.com <br> mobile: +852 98765432 <br> Nationality: Chinese 
+  someone@email.com <br> mobile: +852 xxxxxxxx <br> Nationality: Chinese
 </span>
 
 # Casualwriter  
@@ -11,26 +12,27 @@
 * PMP, OCP, AWS Certification
 * Hand-on experience in oracle database
 * Proficient in JavaScript, Java, Powerbuilder
-* Familiar cloud solution
 
 ## Working Experience
 
-#### PingShan Technology Company Ltd. (Project Manager, 2015/08 - present) 
+#### Current Company (Project Manager, 2015/08 - present) 
 
 * Lead team of 10 to oversee conception, requirement gathering, documentation and rollout.
 * Conduct troubleshooting, analysis and support. Gather user feedback, document bugs and change requests.
-* Projects: [Casual-markdown](https://github.com/casualwriter/casual-markdown), [Casual-markdown-cv](https://github.com/casualwriter/casual-markdown-cv)
 
 #### Second Company (System Analyst, 2011/06 - 2015/07) 
 
 * Led team of 5 for application development
 * Coordinated with developers, support staff and vendors across Hong Kong, China, Taiwan
-* Projects: [Powerpage](https://github.com/casualwriter/powerpage), [Power-Web-Crawler](https://github.com/casualwriter/powerpage-web-crawler)
 
 #### My first Company (Analyst Programmer, 2005/01 - 2011/05)
 
-* develop multiple applications using Javascript, Java, PHP, Powerbuilder, Oracle
-* Projects: Inventory System, CRM, MIS
+* Develop multiple applications using Javascript, Java, PHP, Powerbuilder, Oracle
+
+## Projects: 
+
+* [Casual-Markdown](https://github.com/casualwriter/powerpage) - a lightweight markdown parser
+* [Powerpage](https://github.com/casualwriter/powerpage) - a lightweight browser for html applications
 
 ## Education & Qualifications
 
@@ -42,6 +44,5 @@
 
 ## Misc. Information
 
-* Nationality: Chinese
 * Languages: English (good), Cantonese (fluent/native), Mandarin (good)
 * Availability: 1 month's notice

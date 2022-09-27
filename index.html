@@ -8,23 +8,31 @@
   h1  { font-size:200%; padding:16px; border:1px solid lightgrey; background:#f0f0f0;  }
   h2  { border-bottom:1px solid grey; padding:2px }
 </style>
-<body onload="document.body.innerHTML=md.html(document.body.innerHTML); document.body.style.display='block'">
+<body onload="document.body.innerHTML=md.html(document.body.innerHTML); document.body.style.display='block'; 
+              document.getElementById('avatar').src='https://chart.googleapis.com/chart?cht=qr&chs=177x177&chl='+location.href" >
 
-<image style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar-man.jpg" />
-<span style="float:right;padding:6px">casual-markdown-cv <br> by casualwriter </span>
+<img id=avatar style="float:right; margin:5px; border:1px solid lightgrey; width:70px" />
+<span style="float:right;padding:6px"> casual-markdown-cv <br> by casualwriter </span>
 
 # Home
 
 ## Resume
 
-* [resume.html - standard](resume.html)
-* [resume-dark.html]()
-* [resume-warm.html]()
-* [resume-blue.html]()
-* [resume-web.html]()
+* [resume.html]() - standard
+* [resume-qrcode.html]() - qr code
+* [resume-dark.html]() - dark theme
+* [resume-warm.html]() - warm theme
+* [resume-blue.html]() - blue theme
+* [resume-web.html]() - for web developer
 
 ## Others
 
 * [project-plan.html]()
 * [document.html]()
 * https://github.com/casualwriter/casual-markdown-cv
+
+## personal
+
+* [resume-zhao.html]()
+* [resume-ckhung.html]()
+

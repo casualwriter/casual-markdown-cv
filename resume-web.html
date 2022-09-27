@@ -4,14 +4,20 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/casualwriter/casual-markdown/dist/casual-markdown.css">
 <script src="https://cdn.jsdelivr.net/gh/casualwriter/casual-markdown/dist/casual-markdown.js"></script>
 <style>  
-  body { line-height:1.5; margin:auto; padding:3px; max-width:1024px; display:none; font-family:"Segoe UI",arial }
-  h1  { font-size:200%; padding:16px; border:1px solid grey; color:white; background: linear-gradient(to bottom right, #06c, #fc0); }
-  h2  { border-bottom:1px solid grey; padding:6px; color:teal }  
+  body { line-height:1.5; margin:auto; padding:3px; max-width:1024px; display:none; FONT-FAMILY:"SEGOE UI",ARIAL }
+  h1  { font-size:200%; padding:16px; border:1px solid lightgrey; COLOR:WHITE; BACKGROUND: LINEAR-GRADIENT(TO BOTTOM RIGHT, #06C, #FC0) }
+  h2  { border-bottom:1px solid grey; padding:2px; COLOR:TEAL }
 </style>
-<body onload="document.body.innerHTML=md.html(document.body.innerHTML); document.body.style.display='block'">
+<body onload="document.body.innerHTML=md.html(document.body.innerHTML); document.body.style.display='block'; 
+              document.getElementById('qrcode').src='https://chart.googleapis.com/chart?cht=qr&chs=177x177&chl='+location.href" >
+<img id=qrcode style="float:right; margin:5px; border:1px solid lightgrey; width:70px" />
+<!--======= COPY ABOVE CODE AS HEADER, THEN FOLLOW WITH RESUME CONTENT IN MARKDOWN FORMAT =========-->
 
-<image style="float:right;border-radius:50%;width:60px;padding:6px" src="avatar-man.jpg">
-<span style="float:right;padding:6px;color:white"> dwebber@email.com <br> mobile: +60 12 XXXX XXXX <br>Nationality: American</span>
+<!--<img style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar-man.jpg" />-->
+
+<span style="float:right;padding:6px;color:white"> 
+  dwebber@email.com <br> mobile: +60 12 XXXX XXXX <br>Nationality: American
+</span>
 
 # David Webber (Senior Web Developer)
 
@@ -78,4 +84,5 @@ __WORLWIDE XYZ TECHNOLOGIES, Hong Kong__
 * Availability: 2 months’ notice
 * References available upon request
 
-ps: refernce CV sample from https://www.resumewriter.hk/blog/web-developer-cv-sample/
+
+ps: reference CV sample from https://www.resumewriter.hk/blog/web-developer-cv-sample/

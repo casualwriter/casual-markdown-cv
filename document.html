@@ -1,17 +1,19 @@
 <!DOCTYPE html>
-<title>Resume</title>
+<title>Document</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/casualwriter/casual-markdown/dist/casual-markdown.css">
 <script src="https://cdn.jsdelivr.net/gh/casualwriter/casual-markdown/dist/casual-markdown.js"></script>
 <style>  
-  body { font-family:Consolas,arial; line-height:1.5; margin:auto; padding:3px; max-width:1024px; display:none;  }
-  h1  { font-size:200%; padding:12px; border:1px solid grey; background:PowderBlue; }
-  h2  { border-bottom:1px solid grey; padding:2px; }  
+  body { line-height:1.5; margin:auto; padding:3px; max-width:1024px; display:none; FONT-FAMILY:CONSOLAS,ARIAL; }
+  h1  { font-size:200%; padding:16px; border:1px solid lightgrey; BACKGROUND:POWDERBLUE }
+  h2  { border-bottom:1px solid grey; padding:2px }
 </style>
-<body onload="document.body.innerHTML=md.html(document.body.innerHTML); document.body.style.display='block'">
+<body onload="document.body.innerHTML=md.html(document.body.innerHTML); document.body.style.display='block'; 
+              document.getElementById('qrcode').src='https://chart.googleapis.com/chart?cht=qr&chs=177x177&chl='+location.href" >
+<img id=qrcode style="float:right; margin:5px; border:1px solid lightgrey; width:70px" />
+<!--======= COPY ABOVE CODE AS HEADER, THEN FOLLOW WITH CONTENT IN MARKDOWN FORMAT =========-->
 
-<image style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar-man.jpg">
-<span style="float:right;padding:6px">someone@gmail.com<br>by casualwriter</span>
+<span style="float:right;padding:6px">someone@email.com<br>by casualwriter</span>
 
 # casual-markdown-page
 
