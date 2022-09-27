@@ -1,10 +1,12 @@
 # casual-markdown-cv
 
+[casual-markdown-cv](https://github.com/casualwriter/casual-markdown-cv) is a minimal way to create markdown resume and host on github (or other static web hosting)
+
 It is quite annoying to maintain resume in multiple format, MS Word, PDF, TXT as well as wanna to have an HTML format online.
 
-I found the github markdown is very good for edit/preview. Here is a sample template: [resume.md](resume.md)
+Github markdown is very good for edit/preview. Here is a sample template: [resume.md](https://github.com/casualwriter/casual-markdown-cv/blob/main/resume.md)
 
-Just add a little code below, and it transform to [resume.html](resume.html) with nice [layout](https://raw.githack.com/casualwriter/casual-markdown-cv/main/resume.html) (self-host at github).
+Just add a little code as below, it transform to [resume.html](resume.html) with nice [layout](https://raw.githack.com/casualwriter/casual-markdown-cv/main/resume.html) (self-host at github).
 
 ```
 <!DOCTYPE html>
