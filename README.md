@@ -2,38 +2,13 @@
 
 [casual-markdown-cv](https://github.com/casualwriter/casual-markdown-cv) is a minimal way to create markdown resume and host on github (or other static web hosting)
 
-It is quite annoying to maintain resume in multiple format, MS Word, PDF, TXT as well as wanna to have an HTML format online.
+It is quite annoying to maintain resume in multiple format, MS Word, PDF, TXT as well as wanna to have an HTML format online. 
 
-Github markdown is very good for edit/preview. Here is a sample template: [resume.md](https://github.com/casualwriter/casual-markdown-cv/blob/main/resume.md)
+found Github markdown editor is very handy to draft a nice resume. Here is a sample template: [resume.md](https://github.com/casualwriter/casual-markdown-cv/blob/main/resume.md), however, it is not good enough to send to recruiter.
 
-Just add a little code as below, it transform to [resume.html](resume.html) with nice [layout](https://raw.githack.com/casualwriter/casual-markdown-cv/main/resume.html) (self-host at github).
+so, add a little code, and transform to online resume with nice [layout](https://raw.githack.com/casualwriter/casual-markdown-cv/main/resume.html) (self-host at github).
 
-```
-<!DOCTYPE html>
-<title>Resume</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/casualwriter/casual-markdown/dist/casual-markdown.css">
-<script src="https://cdn.jsdelivr.net/gh/casualwriter/casual-markdown/dist/casual-markdown.js"></script>
-<style>  
-  body { line-height:1.5; margin:auto; padding:3px; max-width:1024px; display:none; FONT-FAMILY:VERDANA,ARIAL; }
-  h1  { font-size:200%; padding:16px; border:1px solid lightgrey; BACKGROUND:#f0f0f0; }
-  h2  { border-bottom:1px solid grey; padding:2px }
-</style>
-<body onload="document.body.innerHTML=md.html(document.body.innerHTML); document.body.style.display='block';">
-<!--======= COPY ABOVE CODE AS HEADER, THEN FOLLOW WITH RESUME CONTENT IN MARKDOWN FORMAT =========-->
-
-<img style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar-man.jpg" />
-
-<span style="float:right;padding:6px"> 
-  someone@email.com <br> mobile: +852 xxxxxxxx <br> Nationality: Chinese
-</span>
-
-# Casualwriter  
-
-```
-
-then you can print to PDF format, and share the url. (for github, it can accessed by raw.githack.com natually)
-
+then may print it to PDF format, and share by url. (for github, it can accessed by raw.githack.com natually)
 
 ## Themes
 
@@ -51,13 +26,40 @@ Sorry for my poor UI design, if still not good enough, please fork this repo and
 ## Usage
 
 just fork [this repo](https://github.com/casualwriter/casual-markdown-cv), and choose a resume template to revise.
-then check html layout by https://raw.githack.com/your-repo-name/casual-markdown-cv/main/resume.html
+then check html layout by https://raw.githack.com/YOUR-REPO-NAME/casual-markdown-cv/main/resume.html
 
 by the way, this template basically use markdown as web page, which not limit for resume purpose. for example,
 
 * [project-plan.html](project-plan.html) // project plan [(preview)](https://raw.githack.com/casualwriter/casual-markdown-cv/main/project-plan.html)
 * [document.html](document.html) // documentation [(preview)](https://raw.githack.com/casualwriter/casual-markdown-cv/main/document.html)
 
+## How it works
+
+The code is simple, just add below (11 lines) as the header. It will convert the markdown content to HTML web page.
+
+```
+<!DOCTYPE html>
+<title>Resume</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/casualwriter/casual-markdown/dist/casual-markdown.css">
+<script src="https://cdn.jsdelivr.net/gh/casualwriter/casual-markdown/dist/casual-markdown.js"></script>
+<style>  
+  body { line-height:1.5; margin:auto; padding:3px; max-width:1024px; display:none; FONT-FAMILY:"Segoe UI",ARIAL; }
+  h1  { font-size:200%; padding:16px; border:1px solid lightgrey; BACKGROUND:#f0f0f0; }
+  h2  { border-bottom:1px solid grey; padding:2px }
+</style>
+<body onload="document.body.innerHTML=md.html(document.body.innerHTML); document.body.style.display='block';">
+<!--======= COPY ABOVE CODE AS HEADER, THEN FOLLOW WITH RESUME CONTENT IN MARKDOWN FORMAT =========-->
+
+<img style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar-man.jpg" />
+
+<span style="float:right;padding:6px"> 
+  someone@email.com <br> mobile: +852 xxxxxxxx <br> Nationality: Chinese
+</span>
+
+# Casualwriter
+
+```
 
 ## Credit
 
