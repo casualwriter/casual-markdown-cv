@@ -10,6 +10,8 @@ just add a little code to transform into online resume with [nice look](https://
 
 then may print it to PDF file to send to recruiter, or share by url. (for github, it can accessed by raw.githack.com naturally)
 
+ps: Recommended to ask ChatGPT for a refinement before published your resume. AI will refine both content and layout in markdown format.
+
 ## Themes
 
 The following themes are available now
@@ -30,8 +32,9 @@ then check html layout by https://raw.githack.com/YOUR-REPO-NAME/casual-markdown
 
 by the way, this template basically use markdown as web page, which not limit for resume purpose. for example,
 
-* [project-plan.html](project-plan.html) // project plan [(preview)](https://raw.githack.com/casualwriter/casual-markdown-cv/main/project-plan.html)
 * [document.html](document.html) // documentation [(preview)](https://raw.githack.com/casualwriter/casual-markdown-cv/main/document.html)
+* [project-plan.html](project-plan.html) // project plan [(preview)](https://raw.githack.com/casualwriter/casual-markdown-cv/main/project-plan.html)
+* [quotation.html](quotation.html) // Business Proposal and quotation [(preview)](https://raw.githack.com/casualwriter/casual-markdown-cv/main/quotation.html)
 
 ## How it works
 
@@ -66,7 +69,7 @@ The code is simple, just add below (11 lines) as the header. It will convert the
 * inspired by https://github.com/youngyangyang04/Markdown-Resume-Template
 * thanks and reference to CV samples, https://www.resumewriter.hk/blog/cv-samples/
 
-(Sept 2022)
+(Sept 2022; minor updated on Aug 2023)
 
 
 
