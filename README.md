@@ -10,7 +10,7 @@ just add a little code to transform into online resume with [nice look](https://
 
 then may print it to PDF file to send to recruiter, or share by url. (for github, it can accessed by raw.githack.com naturally)
 
-ps: Recommended to ask ChatGPT for a refinement before published your resume. AI will refine both content and layout in markdown format.
+ps: recommended to ask ChatGPT for a refinement before published your resume. AI will refine both content and layout in markdown format.
 
 ## Themes
 
