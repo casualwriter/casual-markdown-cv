@@ -1,48 +1,53 @@
 <img style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar-man.jpg" />
 
 <span style="float:right;padding:6px"> 
-  someone@email.com <br> mobile: +852 xxxxxxxx <br> Nationality: Chinese
+  dadiaz@outlook.com.ar <br> mobile: +54 9 11 3114 1538 <br> Nationality: Argentinian
 </span>
 
-# Casualwriter  
+# Daniel Diaz  
 
-## Executive Summary
+## Profesional Summary
 
-* 10 years project/team management experience
-* PMP, OCP, AWS Certification
-* Hand-on experience in oracle database
-* Proficient in JavaScript, Java, Powerbuilder
+* Experience leading teams in industrial automation and software development.
+* Proven track record working with international teams on complex automation and software development projects, consistently delivering high-quality results in dynamic environments.
+* Passionate collaborator who thrives in talented teams and readily assumes leadership roles to drive projects to success.
+* Eager to solidify and expand my technical knowledge in a challenging and evolving environment.
+
+## Software Stack
+* JavaScript
+* Java
+* Php - Laravel
+* Python
+* CI/CD
 
 ## Working Experience
 
-#### Current Company (Project Manager, 2015/08 - present) 
+#### Emprendimientos Satelitales (Junior Fullstack Developer, 2024/05 - present) 
 
-* Lead team of 10 to oversee conception, requirement gathering, documentation and rollout.
-* Conduct troubleshooting, analysis and support. Gather user feedback, document bugs and change requests.
+* Developed the backend of a new product within a tight deadline, ensuring on-time delivery.
 
-#### Second Company (System Analyst, 2011/06 - 2015/07) 
+#### Avature (Trainee Software Engineer, 2021/08 - 2023/12) 
 
-* Led team of 5 for application development
-* Coordinated with developers, support staff and vendors across Hong Kong, China, Taiwan
+* Acted as a project manager and managed backlog and frontlog of the duties of my firts team while being a trainee.
+* Developed, mantained and deployed multiple integrations using mainly Apache Camel, Jenkins and Docker.
+* Mantained and bugfixed nlp module of the main app.
 
-#### My first Company (Analyst Programmer, 2005/01 - 2011/05)
+#### Rockwell Automation (Project Engineer, 2018/06 - 2021/07)
 
-* Develop multiple applications using Javascript, Java, PHP, Powerbuilder, Oracle
+* Leading and supervision of engineering teams.
 
-## Projects: 
+#### Honeywell (Engineer Support, 2017/06 - 2018/05)
 
-* [Casual-Markdown](https://github.com/casualwriter/powerpage) - a lightweight markdown parser
-* [Powerpage](https://github.com/casualwriter/powerpage) - a lightweight browser for html applications
+* Intern
 
 ## Education & Qualifications
 
-* AWS Certification (2021/12)
-* Oracle Certified Professional (2020/02)
-* Project Management Professional (PMP) (2018/10)
-* Bachelor of Computer Science (Sep 2004)
-* The Chinese University of Hong Kong (2000 - 2004)
+* Electronic Engineering (2014/20)
+* Software Engineering (2021 - Present)
+* TheOdinProject (2024)
 
 ## Misc. Information
 
-* Languages: English (good), Cantonese (fluent/native), Mandarin (good)
-* Availability: 1 month's notice
+* Languages: Spanish (Native), English (Professional)
+* Hobbies: Dnd player, team sports enjoyer
+* Availability: 2 week's notice
