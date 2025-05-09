@@ -8,7 +8,7 @@
 
 ## Executive Summary
 
-* 10 years project/team management experience
+* 7 years Software Factory Manager experience
 * PMP, OCP, AWS Certification
 * Hand-on experience in oracle database
 * Proficient in JavaScript, Java, Powerbuilder
