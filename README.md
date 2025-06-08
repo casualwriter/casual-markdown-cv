@@ -72,8 +72,4 @@ The code is simple, just add below (11 lines) as the header. It will convert the
 (Sept 2022; minor updated on Aug 2023)
 
 
-[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
-
-
-
 
